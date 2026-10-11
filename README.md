@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # TaskPulse — Modern Daily Task Management System
 
 A full-stack, production-grade **Daily Task Management System** built with **React.js** for the frontend, **Java Spring Boot 3** for the backend, and **MySQL 8.0** for relational data persistence.
@@ -279,3 +280,7 @@ Result:
 ## 💡 Keyboard Shortcuts
 - Press `N` on any screen to immediately trigger the **Create New Task** modal dialog.
 - Press `Esc` to instantly close any active modal.
+=======
+# Daily_Task_Management_System
+A lightweight and intuitive Daily Task Management System designed to help users organize, track, and prioritize their day-to-day activities efficiently and A lightweight and intuitive Daily Task Management System designed to help users organize, track, and prioritize their day-to-day activities efficiently.
+>>>>>>> 397ebf6fc17beef32aceea850925428988a1a07f
