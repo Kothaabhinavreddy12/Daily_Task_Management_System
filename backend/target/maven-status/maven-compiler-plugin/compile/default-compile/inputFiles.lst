@@ -1,0 +1,16 @@
+F:\Daily_Task_Management_system\backend\src\main\java\com\dailytask\management\config\CorsConfig.java
+F:\Daily_Task_Management_system\backend\src\main\java\com\dailytask\management\config\DataInitializer.java
+F:\Daily_Task_Management_system\backend\src\main\java\com\dailytask\management\controller\TaskController.java
+F:\Daily_Task_Management_system\backend\src\main\java\com\dailytask\management\DailyTaskApplication.java
+F:\Daily_Task_Management_system\backend\src\main\java\com\dailytask\management\dto\ApiResponse.java
+F:\Daily_Task_Management_system\backend\src\main\java\com\dailytask\management\dto\DashboardStatsDto.java
+F:\Daily_Task_Management_system\backend\src\main\java\com\dailytask\management\dto\StatusUpdateRequestDto.java
+F:\Daily_Task_Management_system\backend\src\main\java\com\dailytask\management\dto\TaskRequestDto.java
+F:\Daily_Task_Management_system\backend\src\main\java\com\dailytask\management\dto\TaskResponseDto.java
+F:\Daily_Task_Management_system\backend\src\main\java\com\dailytask\management\entity\Task.java
+F:\Daily_Task_Management_system\backend\src\main\java\com\dailytask\management\exception\BadRequestException.java
+F:\Daily_Task_Management_system\backend\src\main\java\com\dailytask\management\exception\GlobalExceptionHandler.java
+F:\Daily_Task_Management_system\backend\src\main\java\com\dailytask\management\exception\ResourceNotFoundException.java
+F:\Daily_Task_Management_system\backend\src\main\java\com\dailytask\management\repository\TaskRepository.java
+F:\Daily_Task_Management_system\backend\src\main\java\com\dailytask\management\service\TaskService.java
+F:\Daily_Task_Management_system\backend\src\main\java\com\dailytask\management\service\TaskServiceImpl.java

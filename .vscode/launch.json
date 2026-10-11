@@ -1,0 +1,21 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Spring Boot - DailyTaskApplication",
+      "request": "launch",
+      "mainClass": "com.dailytask.management.DailyTaskApplication",
+      "projectName": "daily-task-backend",
+      "cwd": "${workspaceFolder}/backend"
+    },
+    {
+      "type": "node",
+      "name": "Frontend - Vite Dev Server",
+      "request": "launch",
+      "cwd": "${workspaceFolder}/frontend",
+      "runtimeExecutable": "npm",
+      "runtimeArgs": ["run", "dev"]
+    }
+  ]
+}

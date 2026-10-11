@@ -1,0 +1,16 @@
+com\dailytask\management\config\DataInitializer.class
+com\dailytask\management\repository\TaskRepository.class
+com\dailytask\management\service\TaskService.class
+com\dailytask\management\controller\TaskController.class
+com\dailytask\management\dto\ApiResponse.class
+com\dailytask\management\entity\Task.class
+com\dailytask\management\dto\TaskResponseDto.class
+com\dailytask\management\exception\ResourceNotFoundException.class
+com\dailytask\management\dto\StatusUpdateRequestDto.class
+com\dailytask\management\dto\DashboardStatsDto.class
+com\dailytask\management\service\TaskServiceImpl.class
+com\dailytask\management\config\CorsConfig.class
+com\dailytask\management\DailyTaskApplication.class
+com\dailytask\management\exception\GlobalExceptionHandler.class
+com\dailytask\management\exception\BadRequestException.class
+com\dailytask\management\dto\TaskRequestDto.class
